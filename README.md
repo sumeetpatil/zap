@@ -42,3 +42,8 @@ Usage: zap-api-scan.py -t <target> -f <format> [options]
 The packaged scans are the simplest way to automate ZAP in docker.
 
 List of passive and active http scan rules are found here - https://www.zaproxy.org/docs/alerts/
+
+
+
+### Driving OWASP ZAP with Selenium
+[Driving OWASP ZAP with Selenium](https://owasp.org/www-chapter-london/assets/slides/OWASPLondon-OWASP-ZAP-Selenium-20180830-PDF.pdf)
